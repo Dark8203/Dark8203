@@ -1,4 +1,4 @@
-<img src ="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h4 align="center">I'm from Udaipur and I'm a Self-motivated B.Tech Computer Science student who is Adept in nature and also seeking for an opportunity to work in a challenging environment to prove my skills and utilise my knowledge & intelligence in the growth of community. I'm also well practiced in Data Structure and Algorithms and good enough hand-on with my development skills. Other than that I'm always ready to learn new skills and new Technologies which helps me keeping myself updated.</h4>
 
