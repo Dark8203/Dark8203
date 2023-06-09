@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rijulJain25](https://github.com/rijulJain25)
 
-- 📑 This is my portfolio website [https://rijuljain.netlify.app/](https://rijuljain.netlify.app/)
+- 📑 This is my portfolio website [My Portfolio!!](https://darkceres.notion.site/Hey-I-m-Vishal-dd9b09893cc24b42a03f1cbb666cd2d7?pvs=4)
 
 - 💬 Ask me about *Flutter App Dev, MERN*
 
@@ -66,12 +66,12 @@
 </table>
 <hr>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rijuljain25" alt="rijuljain25" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dark8203" alt="Dark8203" /></a> </p>
 
 <hr>
 <br>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rijuljain25&theme=tokyonight" alt="rijuljain25" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dark8203&theme=tokyonight" alt="Dark8203" /></p>
 <hr>
 <br>
 
