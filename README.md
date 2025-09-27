@@ -22,7 +22,7 @@
 ## 🚀 What I'm Currently Doing
 
 - 🏢 **AI/ML Engineer at Accenture** (Oct 2024 - Present): Developing intelligent agents and automated workflows with Microsoft Semantic Kernel, building end-to-end RAG systems, and engineering NLP pipelines for document analysis.
-- 🌱 Continuously exploring advanced techniques in **Generative AI, Agentic Workflows, and Multimodal AI.**
+- 🌱 Continuously exploring advanced techniques in **Generative AI, Agentic Workflows, Multimodal AI, and Reinforcement learning.**
 - 💡 Passionate about leveraging AI to drive innovation and solve complex problems ethically.
 
 <br>
@@ -35,11 +35,11 @@ Here's a snapshot of the technologies and tools I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,html,css,react,streamlit,sklearn,mongodb,mysql,neo4j,git,github,docker,aws,azure,gcp,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,html,css,react,streamlit,sklearn,mysql,neo4j,git,github,docker,aws,azure,gcp,figma,vscode" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,django,graphql,kafka,kubernetes,prometheus,grafana,nginx,ansible,terraform" />
+    <img src="https://skillicons.dev/icons?i=flask,django,graphql,prometheus,grafana,terraform" />
   </a>
 </p>
 
@@ -66,9 +66,8 @@ Here's a snapshot of the technologies and tools I work with:
 <hr>
 <br>
 
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
-- **B.Tech in Computer Science and Engineering**, VIT University (2020-2024)
 - **LinkedIn SQL Essentials** (2022)
 - **Applied Machine Learning in Python** (2021)
 
@@ -83,9 +82,6 @@ Here's a snapshot of the technologies and tools I work with:
   </a>
   <a href="mailto:vishal.srivastavapro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://darkceres.notion.site/Hey-I-m-Vishal-dd9b09893cc24b42a03f1cbb666cd2d7?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF7700?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
