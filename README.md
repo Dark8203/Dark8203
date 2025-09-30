@@ -66,15 +66,6 @@ Here's a snapshot of the technologies and tools I work with:
 <hr>
 <br>
 
-## 🎓 Certifications
-
-- **LinkedIn SQL Essentials** (2022)
-- **Applied Machine Learning in Python** (2021)
-
-<br>
-<hr>
-<br>
-
 <h3 align="center">Connect with me 🤝</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-srivastava-ceres/" target="_blank">
